@@ -55,13 +55,13 @@
 
 ## 2. Обзор литературы
 
-В обзор включены десять научных публикаций: пять русскоязычных и пять иностранных. Документация и описания устройств приведены отдельно. Для источников [1] и [2] доступны библиографические сведения и индексированные фрагменты издательских выпусков, для [5] — открытая аннотация. Их описание ограничено этими материалами; подробные выводы об эффективности предложенных авторами методов не делаются.
+В обзор включены десять научных публикаций: пять русскоязычных и пять иностранных. Документация и описания устройств приведены отдельно. При проверке источников [1] и [2] использованы библиографические сведения и доступные в поисковом индексе фрагменты оригинальных статей: сайт издателя возвращал ошибку, а КиберЛенинка запрашивала капчу. Их полные тексты при этой проверке получить не удалось. Для [4] использованы карточка и индексированный текст PDF на Math-Net; при повторной проверке прямое открытие сайта завершалось тайм-аутом. Для [5] использована открытая аннотация издателя. Описание этих работ ограничено доступными материалами; подробные выводы об эффективности предложенных авторами методов не делаются.
 
 ### 2.1. Русскоязычные источники
 
 #### 1. Контроль целостности данных
 
-**[1] Диченко С. А. Контроль и обеспечение целостности информации в системах хранения данных // Наукоёмкие технологии в космических исследованиях Земли. 2019. Т. 11. № 1. С. 49–57. DOI: 10.24411/2409-5419-2018-10224.** [Издательский выпуск, с. 49–57][1].
+**[1] Диченко С. А. Контроль и обеспечение целостности информации в системах хранения данных // Наукоёмкие технологии в космических исследованиях Земли. 2019. Т. 11. № 1. С. 49–57. DOI: 10.24411/2409-5419-2018-10224.** [Статья на КиберЛенинке][1]; [выпуск издателя, с. 49–57](https://www.h-es.ru/images/archive/Nom-1-2019.pdf).
 
 В работе рассматриваются хэширование и избыточные коды для контроля целостности информации в хранилищах.
 
@@ -69,7 +69,7 @@
 
 #### 2. Использование хэш-функций
 
-**[2] Диченко С. А., Финько О. А. Обобщённый способ применения хэш-функции для контроля целостности данных // Наукоёмкие технологии в космических исследованиях Земли. 2020. Т. 12. № 6. С. 48–59. DOI: 10.36724/2409-5419-2020-12-6-48-59.** [Издательский выпуск, с. 48–59][2].
+**[2] Диченко С. А., Финько О. А. Обобщённый способ применения хэш-функции для контроля целостности данных // Наукоёмкие технологии в космических исследованиях Земли. 2020. Т. 12. № 6. С. 48–59. DOI: 10.36724/2409-5419-2020-12-6-48-59.** [Статья на КиберЛенинке][2]; [выпуск издателя, с. 48–59](https://www.h-es.ru/images/archive/Nom-6-2020.pdf).
 
 Авторы рассматривают организацию проверки с помощью хэш-функций и сокращение объёма дополнительной контрольной информации.
 
@@ -335,13 +335,12 @@ SHA-256 здесь используется как готовый способ �
 
 ## Ссылки
 
-
 Научные публикации описаны в разделе 2. Ниже приведены ссылки на них и на дополнительные материалы. Дата обзора электронных материалов — 21.10.2026.
 
-- **[1]** Диченко, 2019 — [издательский выпуск](https://www.h-es.ru/images/archive/Nom-1-2019.pdf), с. 49–57.
-- **[2]** Диченко, Финько, 2020 — [издательский выпуск](https://www.h-es.ru/images/archive/Nom-6-2020.pdf), с. 48–59.
+- **[1]** Диченко, 2019 — [страница статьи на КиберЛенинке](https://cyberleninka.ru/article/n/kontrol-i-obespechenie-tselostnosti-informatsii-v-sistemah-hraneniya-dannyh); [издательский выпуск](https://www.h-es.ru/images/archive/Nom-1-2019.pdf), с. 49–57.
+- **[2]** Диченко, Финько, 2020 — [страница статьи на КиберЛенинке](https://cyberleninka.ru/article/n/obobschennyy-sposob-primeneniya-hesh-funktsii-dlya-kontrolya-tselostnosti-dannyh); [издательский выпуск](https://www.h-es.ru/images/archive/Nom-6-2020.pdf), с. 48–59.
 - **[3]** Диченко, Финько, 2019 — [полный текст](https://cyberrus.info/wp-content/uploads/2019/11/17-36-634-19_4.-Dichenko.pdf).
-- **[4]** Таранин, 2016 — [полный текст](https://www.mathnet.ru/php/getFT.phtml?jrnid=mais&paperid=516&what=fullt).
+- **[4]** Таранин, 2016 — [полный текст](https://www.mathnet.ru/php/getFT.phtml?jrnid=mais&paperid=516&what=fullt); [карточка Math-Net](https://www.mathnet.ru/php/archive.phtml?jrnid=mais&option_lang=rus&paperid=516&wshow=paper). Страницы 479–491 указаны по PDF статьи; в карточке Math-Net встречается расхождение (479–481).
 - **[5]** Бобровский, Фомичев, 2024 — [страница издателя](https://radiotec.ru/ru/journal/Highly_available_systems/number/2024-3/article/24660).
 - **[6]** Bairavasundaram et al., 2008 — [полный текст USENIX](https://www.usenix.org/legacy/event/fast08/tech/full_papers/bairavasundaram/bairavasundaram_html/).
 - **[7]** Kumar et al., 2017 — [USENIX](https://www.usenix.org/conference/fast17/technical-sessions/presentation/kumar).
@@ -352,15 +351,15 @@ SHA-256 здесь используется как готовый способ �
 - **[A2]** StationPC. [SD Card Backup: руководство PocketCloud](https://help.stationpc.com/pocketcloud/backup/sd-backup/).
 - **[A3]** StationPC. [PocketCloud: описание производителя](https://www.stationpc.com/products/pocketcloud-1).
 - **[A4]** Seagate / LaCie. [DJI Copilot User Manual, 26.06.2020](https://www.seagate.com/files/www-content/manuals/dji-copilot/pdf/dji-copilot-en_US.pdf). Основные разделы: Easy Copy; Copilot BOSS App, настройка File/Folder verification after ingestion.
-- **[T1]** NIST. [Secure Hash Standard, FIPS PUB 180-4](https://www.nist.gov/publications/secure-hash-standard).
+- **[T1]** NIST. [Secure Hash Standard, FIPS PUB 180-4](https://www.nist.gov/publications/secure-hash-standard). 2015. DOI: 10.6028/NIST.FIPS.180-4.
 - **[T3]** Linux man-pages. [fsync(2)](https://man7.org/linux/man-pages/man2/fsync.2.html).
 - **[T4]** rsync. [Официальное руководство](https://rsync.samba.org/ftp/rsync/rsync.1).
 - **[T5]** British Library. [Minimum Preservation Tool — исходный код](https://github.com/britishlibrary/mpt).
 - **[T6]** Apple. [Transfer files from iPhone to a storage device, a server, or the cloud](https://support.apple.com/en-euro/guide/iphone/iphe9aff429a/27/ios/27).
 - **[D1]** PIXLS.US. [Архив RAW-файлов raw.pixls.us](https://raw.pixls.us/).
 
-[1]: https://www.h-es.ru/images/archive/Nom-1-2019.pdf
-[2]: https://www.h-es.ru/images/archive/Nom-6-2020.pdf
+[1]: https://cyberleninka.ru/article/n/kontrol-i-obespechenie-tselostnosti-informatsii-v-sistemah-hraneniya-dannyh
+[2]: https://cyberleninka.ru/article/n/obobschennyy-sposob-primeneniya-hesh-funktsii-dlya-kontrolya-tselostnosti-dannyh
 [3]: https://cyberrus.info/wp-content/uploads/2019/11/17-36-634-19_4.-Dichenko.pdf
 [4]: https://www.mathnet.ru/php/getFT.phtml?jrnid=mais&paperid=516&what=fullt
 [5]: https://radiotec.ru/ru/journal/Highly_available_systems/number/2024-3/article/24660
